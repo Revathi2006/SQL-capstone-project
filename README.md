@@ -235,6 +235,23 @@ bank_transaction_data
 ![WhatsApp Image 2025-07-22 at 12 20 12_5c7f1cdc](https://github.com/user-attachments/assets/a866dc46-1410-484b-937f-9e79fbe05736)
 
 
+## 21.Creating a Fact Table for Customer Behavioral Analysis in Banking Using Aggregation Functions:
+
+## 1.To find the customers who has atleast 1 loan:
+
+<img width="1919" height="1016" alt="Screenshot 2025-07-25 123214" src="https://github.com/user-attachments/assets/eff3e069-175b-442d-9216-1fce923f42f8" />
+
+## 2. To find the count of transactions for each customer:
+
+
+<img width="1920" height="1080" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/73a28f12-04e2-4c28-90e6-6d51e2891d22" />
+
+## 3. To find the sum of transactions for each customer:
+
+<img width="1912" height="1009" alt="Screenshot 2025-07-25 135318" src="https://github.com/user-attachments/assets/3ddf8e2c-6e7d-4965-a370-7e708ed9cc8f" />
+
+
+
 ---
 
 ## ✅ Conclusion
