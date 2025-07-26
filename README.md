@@ -250,7 +250,10 @@ bank_transaction_data
 
 <img width="1912" height="1009" alt="Screenshot 2025-07-25 135318" src="https://github.com/user-attachments/assets/3ddf8e2c-6e7d-4965-a370-7e708ed9cc8f" />
 
+## 22.To count number of accounts held by each customer:
 
+
+<img width="1916" height="1013" alt="Screenshot 2025-07-26 164524" src="https://github.com/user-attachments/assets/5fc264a1-b3a4-4c9a-b9b9-4607f8778fde" />
 
 ---
 
